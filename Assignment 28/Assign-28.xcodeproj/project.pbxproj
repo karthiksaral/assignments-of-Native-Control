@@ -1,0 +1,370 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8459767717B249600054E98A /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8459767617B249600054E98A /* Default-568h@2x.png */; };
+		8459767B17B24A4D0054E98A /* seventhViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8459767917B24A4D0054E98A /* seventhViewController.m */; };
+		8459767C17B24A4D0054E98A /* seventhViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8459767A17B24A4D0054E98A /* seventhViewController.xib */; };
+		CECF49391758C84B00EBBA92 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CECF49381758C84B00EBBA92 /* UIKit.framework */; };
+		CECF493B1758C84B00EBBA92 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CECF493A1758C84B00EBBA92 /* Foundation.framework */; };
+		CECF493D1758C84B00EBBA92 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CECF493C1758C84B00EBBA92 /* CoreGraphics.framework */; };
+		CECF49431758C84B00EBBA92 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CECF49411758C84B00EBBA92 /* InfoPlist.strings */; };
+		CECF49451758C84B00EBBA92 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CECF49441758C84B00EBBA92 /* main.m */; };
+		CECF49491758C84B00EBBA92 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CECF49481758C84B00EBBA92 /* AppDelegate.m */; };
+		CECF494C1758C84B00EBBA92 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CECF494B1758C84B00EBBA92 /* FirstViewController.m */; };
+		CECF494E1758C84B00EBBA92 /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = CECF494D1758C84B00EBBA92 /* first.png */; };
+		CECF49501758C84B00EBBA92 /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CECF494F1758C84B00EBBA92 /* first@2x.png */; };
+		CECF49531758C84B00EBBA92 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CECF49521758C84B00EBBA92 /* SecondViewController.m */; };
+		CECF49551758C84B00EBBA92 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = CECF49541758C84B00EBBA92 /* second.png */; };
+		CECF49571758C84B00EBBA92 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CECF49561758C84B00EBBA92 /* second@2x.png */; };
+		CECF495A1758C84B00EBBA92 /* FirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CECF49581758C84B00EBBA92 /* FirstViewController.xib */; };
+		CECF495D1758C84B00EBBA92 /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CECF495B1758C84B00EBBA92 /* SecondViewController.xib */; };
+		CECF49661758C8AD00EBBA92 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CECF49641758C8AD00EBBA92 /* ThirdViewController.m */; };
+		CECF49671758C8AD00EBBA92 /* ThirdViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CECF49651758C8AD00EBBA92 /* ThirdViewController.xib */; };
+		CECF496F1758C9B400EBBA92 /* FourthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CECF496D1758C9B400EBBA92 /* FourthViewController.m */; };
+		CECF49701758C9B400EBBA92 /* FourthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CECF496E1758C9B400EBBA92 /* FourthViewController.xib */; };
+		CECF49781758CB2100EBBA92 /* FifthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CECF49761758CB2100EBBA92 /* FifthViewController.m */; };
+		CECF49791758CB2100EBBA92 /* FifthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CECF49771758CB2100EBBA92 /* FifthViewController.xib */; };
+		CECF497D1758CD2300EBBA92 /* SixthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CECF497B1758CD2300EBBA92 /* SixthViewController.m */; };
+		CECF497E1758CD2300EBBA92 /* SixthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CECF497C1758CD2300EBBA92 /* SixthViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8459767617B249600054E98A /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		8459767817B24A4D0054E98A /* seventhViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = seventhViewController.h; path = "Assign-28/seventhViewController.h"; sourceTree = "<group>"; };
+		8459767917B24A4D0054E98A /* seventhViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = seventhViewController.m; path = "Assign-28/seventhViewController.m"; sourceTree = "<group>"; };
+		8459767A17B24A4D0054E98A /* seventhViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = seventhViewController.xib; path = "Assign-28/seventhViewController.xib"; sourceTree = "<group>"; };
+		CECF49341758C84B00EBBA92 /* Assign-28.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Assign-28.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CECF49381758C84B00EBBA92 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		CECF493A1758C84B00EBBA92 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		CECF493C1758C84B00EBBA92 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		CECF49401758C84B00EBBA92 /* Assign-28-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Assign-28-Info.plist"; sourceTree = "<group>"; };
+		CECF49421758C84B00EBBA92 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CECF49441758C84B00EBBA92 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CECF49461758C84B00EBBA92 /* Assign-28-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Assign-28-Prefix.pch"; sourceTree = "<group>"; };
+		CECF49471758C84B00EBBA92 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CECF49481758C84B00EBBA92 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CECF494A1758C84B00EBBA92 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		CECF494B1758C84B00EBBA92 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		CECF494D1758C84B00EBBA92 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
+		CECF494F1758C84B00EBBA92 /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
+		CECF49511758C84B00EBBA92 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		CECF49521758C84B00EBBA92 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		CECF49541758C84B00EBBA92 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
+		CECF49561758C84B00EBBA92 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		CECF49591758C84B00EBBA92 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/FirstViewController.xib; sourceTree = "<group>"; };
+		CECF495C1758C84B00EBBA92 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SecondViewController.xib; sourceTree = "<group>"; };
+		CECF49631758C8AD00EBBA92 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		CECF49641758C8AD00EBBA92 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		CECF49651758C8AD00EBBA92 /* ThirdViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ThirdViewController.xib; sourceTree = "<group>"; };
+		CECF496C1758C9B400EBBA92 /* FourthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourthViewController.h; sourceTree = "<group>"; };
+		CECF496D1758C9B400EBBA92 /* FourthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourthViewController.m; sourceTree = "<group>"; };
+		CECF496E1758C9B400EBBA92 /* FourthViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FourthViewController.xib; sourceTree = "<group>"; };
+		CECF49751758CB2100EBBA92 /* FifthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FifthViewController.h; sourceTree = "<group>"; };
+		CECF49761758CB2100EBBA92 /* FifthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FifthViewController.m; sourceTree = "<group>"; };
+		CECF49771758CB2100EBBA92 /* FifthViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FifthViewController.xib; sourceTree = "<group>"; };
+		CECF497A1758CD2200EBBA92 /* SixthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SixthViewController.h; sourceTree = "<group>"; };
+		CECF497B1758CD2300EBBA92 /* SixthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SixthViewController.m; sourceTree = "<group>"; };
+		CECF497C1758CD2300EBBA92 /* SixthViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SixthViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CECF49311758C84B00EBBA92 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CECF49391758C84B00EBBA92 /* UIKit.framework in Frameworks */,
+				CECF493B1758C84B00EBBA92 /* Foundation.framework in Frameworks */,
+				CECF493D1758C84B00EBBA92 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CECF49291758C84B00EBBA92 = {
+			isa = PBXGroup;
+			children = (
+				8459767817B24A4D0054E98A /* seventhViewController.h */,
+				8459767917B24A4D0054E98A /* seventhViewController.m */,
+				8459767A17B24A4D0054E98A /* seventhViewController.xib */,
+				8459767617B249600054E98A /* Default-568h@2x.png */,
+				CECF493E1758C84B00EBBA92 /* Assign-28 */,
+				CECF49371758C84B00EBBA92 /* Frameworks */,
+				CECF49351758C84B00EBBA92 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CECF49351758C84B00EBBA92 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CECF49341758C84B00EBBA92 /* Assign-28.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CECF49371758C84B00EBBA92 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CECF49381758C84B00EBBA92 /* UIKit.framework */,
+				CECF493A1758C84B00EBBA92 /* Foundation.framework */,
+				CECF493C1758C84B00EBBA92 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CECF493E1758C84B00EBBA92 /* Assign-28 */ = {
+			isa = PBXGroup;
+			children = (
+				CECF49471758C84B00EBBA92 /* AppDelegate.h */,
+				CECF49481758C84B00EBBA92 /* AppDelegate.m */,
+				CECF494A1758C84B00EBBA92 /* FirstViewController.h */,
+				CECF494B1758C84B00EBBA92 /* FirstViewController.m */,
+				CECF49581758C84B00EBBA92 /* FirstViewController.xib */,
+				CECF494D1758C84B00EBBA92 /* first.png */,
+				CECF494F1758C84B00EBBA92 /* first@2x.png */,
+				CECF49511758C84B00EBBA92 /* SecondViewController.h */,
+				CECF49521758C84B00EBBA92 /* SecondViewController.m */,
+				CECF49541758C84B00EBBA92 /* second.png */,
+				CECF49561758C84B00EBBA92 /* second@2x.png */,
+				CECF495B1758C84B00EBBA92 /* SecondViewController.xib */,
+				CECF493F1758C84B00EBBA92 /* Supporting Files */,
+				CECF49631758C8AD00EBBA92 /* ThirdViewController.h */,
+				CECF49641758C8AD00EBBA92 /* ThirdViewController.m */,
+				CECF49651758C8AD00EBBA92 /* ThirdViewController.xib */,
+				CECF496C1758C9B400EBBA92 /* FourthViewController.h */,
+				CECF496D1758C9B400EBBA92 /* FourthViewController.m */,
+				CECF496E1758C9B400EBBA92 /* FourthViewController.xib */,
+				CECF49751758CB2100EBBA92 /* FifthViewController.h */,
+				CECF49761758CB2100EBBA92 /* FifthViewController.m */,
+				CECF49771758CB2100EBBA92 /* FifthViewController.xib */,
+				CECF497A1758CD2200EBBA92 /* SixthViewController.h */,
+				CECF497B1758CD2300EBBA92 /* SixthViewController.m */,
+				CECF497C1758CD2300EBBA92 /* SixthViewController.xib */,
+			);
+			path = "Assign-28";
+			sourceTree = "<group>";
+		};
+		CECF493F1758C84B00EBBA92 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CECF49401758C84B00EBBA92 /* Assign-28-Info.plist */,
+				CECF49411758C84B00EBBA92 /* InfoPlist.strings */,
+				CECF49441758C84B00EBBA92 /* main.m */,
+				CECF49461758C84B00EBBA92 /* Assign-28-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CECF49331758C84B00EBBA92 /* Assign-28 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CECF49601758C84B00EBBA92 /* Build configuration list for PBXNativeTarget "Assign-28" */;
+			buildPhases = (
+				CECF49301758C84B00EBBA92 /* Sources */,
+				CECF49311758C84B00EBBA92 /* Frameworks */,
+				CECF49321758C84B00EBBA92 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Assign-28";
+			productName = "Assign-28";
+			productReference = CECF49341758C84B00EBBA92 /* Assign-28.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CECF492B1758C84B00EBBA92 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = CECF492E1758C84B00EBBA92 /* Build configuration list for PBXProject "Assign-28" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = CECF49291758C84B00EBBA92;
+			productRefGroup = CECF49351758C84B00EBBA92 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CECF49331758C84B00EBBA92 /* Assign-28 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CECF49321758C84B00EBBA92 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CECF49431758C84B00EBBA92 /* InfoPlist.strings in Resources */,
+				CECF494E1758C84B00EBBA92 /* first.png in Resources */,
+				CECF49501758C84B00EBBA92 /* first@2x.png in Resources */,
+				CECF49551758C84B00EBBA92 /* second.png in Resources */,
+				CECF49571758C84B00EBBA92 /* second@2x.png in Resources */,
+				CECF495A1758C84B00EBBA92 /* FirstViewController.xib in Resources */,
+				CECF495D1758C84B00EBBA92 /* SecondViewController.xib in Resources */,
+				CECF49671758C8AD00EBBA92 /* ThirdViewController.xib in Resources */,
+				CECF49701758C9B400EBBA92 /* FourthViewController.xib in Resources */,
+				CECF49791758CB2100EBBA92 /* FifthViewController.xib in Resources */,
+				CECF497E1758CD2300EBBA92 /* SixthViewController.xib in Resources */,
+				8459767717B249600054E98A /* Default-568h@2x.png in Resources */,
+				8459767C17B24A4D0054E98A /* seventhViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CECF49301758C84B00EBBA92 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CECF49451758C84B00EBBA92 /* main.m in Sources */,
+				CECF49491758C84B00EBBA92 /* AppDelegate.m in Sources */,
+				CECF494C1758C84B00EBBA92 /* FirstViewController.m in Sources */,
+				CECF49531758C84B00EBBA92 /* SecondViewController.m in Sources */,
+				CECF49661758C8AD00EBBA92 /* ThirdViewController.m in Sources */,
+				CECF496F1758C9B400EBBA92 /* FourthViewController.m in Sources */,
+				CECF49781758CB2100EBBA92 /* FifthViewController.m in Sources */,
+				CECF497D1758CD2300EBBA92 /* SixthViewController.m in Sources */,
+				8459767B17B24A4D0054E98A /* seventhViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		CECF49411758C84B00EBBA92 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CECF49421758C84B00EBBA92 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CECF49581758C84B00EBBA92 /* FirstViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CECF49591758C84B00EBBA92 /* en */,
+			);
+			name = FirstViewController.xib;
+			sourceTree = "<group>";
+		};
+		CECF495B1758C84B00EBBA92 /* SecondViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CECF495C1758C84B00EBBA92 /* en */,
+			);
+			name = SecondViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CECF495E1758C84B00EBBA92 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		CECF495F1758C84B00EBBA92 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CECF49611758C84B00EBBA92 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Assign-28/Assign-28-Prefix.pch";
+				INFOPLIST_FILE = "Assign-28/Assign-28-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		CECF49621758C84B00EBBA92 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Assign-28/Assign-28-Prefix.pch";
+				INFOPLIST_FILE = "Assign-28/Assign-28-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CECF492E1758C84B00EBBA92 /* Build configuration list for PBXProject "Assign-28" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CECF495E1758C84B00EBBA92 /* Debug */,
+				CECF495F1758C84B00EBBA92 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CECF49601758C84B00EBBA92 /* Build configuration list for PBXNativeTarget "Assign-28" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CECF49611758C84B00EBBA92 /* Debug */,
+				CECF49621758C84B00EBBA92 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CECF492B1758C84B00EBBA92 /* Project object */;
+}
